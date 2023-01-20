@@ -1,0 +1,111 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap');
+
+
+h1{
+    font-family: 'Poppins';
+    font-weight: 700;
+}
+
+h5{
+    font-family: 'Poppins';
+    font-weight: 500;
+}
+
+h4{
+    font-family: 'Poppins';
+    font-weight: 500;
+}
+
+p{
+    font-family: 'Poppins';
+    font-weight: 400;
+}
+
+
+.nav_header{
+    background-color: #F0FFF0;
+}
+
+.nav_header nav div img{
+    margin-left: -4rem;
+}
+li{
+    padding: 0rem 0.5rem ;
+}
+.sign_in{
+    margin-left: 0.5rem;
+    width: 120px;
+    border-radius: 33px;
+    border-color: #21B573;
+    background-color: #21B573;
+    ;
+    text-decoration-color: #ffff;
+}
+
+.p_red{
+    color: #FD511A;
+    ;
+}
+
+.p_header{
+    margin-top: 1.5rem;
+    
+}
+
+.get_strated{
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    width: 153px;
+    margin-left: 0rem;
+    margin-top: 1rem;
+}
+
+.h1{
+    letter-spacing: 0.05rem;
+    font-weight: 800;
+}
+
+.h1 span{
+    color: #21B573;
+}
+
+.head_img img{
+    width: 554px;
+}
+
+
+.card_1{
+   height: 16rem;
+   padding: 3rem;
+}
+
+.card_1 div img{
+    width: 5rem;
+    height: 5.133rem;
+    text-align: center;
+}
+
+.card_2{
+    height: 30rem;
+    width: 23.125rem;
+    text-align: center;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+
+}
+
+.card_2 div img{
+    width: 20.6rem;
+    height: 14.6rem;
+    text-align: center;
+}
+
+footer{
+    background-color: #282531;
+    padding-bottom: 1rem;
+}
+
+.footer_1 p{
+    color: #F0FFF0;
+}
